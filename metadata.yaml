@@ -1,0 +1,34 @@
+_repo: Maximilian-in-Mexico_62449
+_version: 0.0.1
+alternative_title: Mexico unter Kaiser Maximilian I. English
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Kemper, J.
+    gutenberg_agent_id: '51946'
+    url: http://www.gutenberg.org/2009/agents/51946
+description: ''
+gutenberg_issued: '2020-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62449'
+  lccn: '11025107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Life Stories for Young People
+subjects:
+- !lcsh 'Maximilian, Emperor of Mexico, 1832-1867'
+- !lcc 'F1201'
+- GITenberg
+title: Maximilian in Mexico
+url: http://www.gutenberg.org/ebooks/62449
